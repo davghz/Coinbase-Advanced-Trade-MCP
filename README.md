@@ -17,8 +17,8 @@ A Model Context Protocol (MCP) server for Coinbase Advanced Trade. Provides AI a
 
 1. **Extract the zip file:**
    ```bash
-   unzip Coinbase-Advanced-Trade-MCP.zip
-   cd Coinbase-Advanced-Trade-MCP
+   unzip Coinbase-Advanced-Trade-MCP-main.zip
+   cd Coinbase-Advanced-Trade-main
    ```
 
 2. **Install dependencies:**
